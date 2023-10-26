@@ -3,3 +3,4 @@ django-bootstrap-form
 django-filter
 mysqlclient
 pillow
+gunicorn
